@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Hagai
-👀 Full stack web developer
+👀 Full stack developer
 
 ### 🛠 &nbsp;Tech Stack
 
