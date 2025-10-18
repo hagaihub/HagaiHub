@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Hagai
-👀 Full stack developer
+Software Engineer
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -16,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
 ![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)&nbsp;
+![Kafka](https://img.shields.io/badge/Apache_Kafka-05122A?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![RabbitMq](https://img.shields.io/badge/-rabbitmq-05122A?style=flat&logo=rabbitmq&logoColor=FFA518)&nbsp;
 <br />
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
